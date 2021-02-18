@@ -1,5 +1,1 @@
-CREATE TABLE tabela_de_vendedores(
-	matricula VARCHAR(5),
-    nome VARCHAR(100),
-    percentual_comissao FLOAT
-);
+DROP TABLE tabela_de_vendedores1;
