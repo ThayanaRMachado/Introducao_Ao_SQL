@@ -1,1 +1,1 @@
-CREATE DATABASE sucos;
+DROP DATABASE sucos;
